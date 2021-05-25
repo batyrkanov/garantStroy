@@ -1813,7 +1813,7 @@ a:focus {
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
     background: #030f27;
-    color: #33fdf457;
+    color: #33fdf4;
 }
 
 .portfolio .load-more {
@@ -1892,7 +1892,7 @@ a:focus {
     width: calc(100% - 60px);
     font-size: 20px;
     font-weight: 700;
-    color: #33fdf457;
+    color: #33fdf4;
     text-align: center;
     overflow: hidden;
     white-space: nowrap;
@@ -1940,7 +1940,7 @@ a:focus {
 }
 
 .contact .col-md-6:last-child {
-    background: #33fdf457;
+    background: #33fdf3e8;
 }
 
 .contact .contact-info {
@@ -1961,7 +1961,7 @@ a:focus {
 
 .contact .contact-item [class^="flaticon-"]::before {
     margin: 0;
-    color: #33fdf457;
+    color: #33fdf4;
     font-size: 40px;
 }
 
@@ -1972,7 +1972,7 @@ a:focus {
 }
 
 .contact .contact-text h2 {
-    color: #33fdf457;
+    color: #33fdf4;
     font-size: 20px;
     font-weight: 600;
 }
@@ -1997,8 +1997,8 @@ a:focus {
     height: 40px;
     border-radius: 0;
     border-width: 1px;
-    border-color: rgba(256, 256, 256, .4);
-    background: transparent;
+    border-color: #030f27;
+    background: #030f27;
 }
 
 .contact .contact-form textarea {
@@ -2006,8 +2006,8 @@ a:focus {
     height: 185px;
     border-radius: 0;
     border-width: 1px;
-    border-color: rgba(256, 256, 256, .4);
-    background: transparent;
+    border-color: #030f27;
+    background: #030f27;
 }
 
 .contact .contact-form input:focus,
@@ -2032,7 +2032,7 @@ a:focus {
     padding: 16px 30px;
     font-size: 16px;
     font-weight: 600;
-    color: #33fdf457;
+    color: #33fdf4;
     background: #030f27;
     border: none;
     border-radius: 0;
